@@ -1,0 +1,199 @@
+[
+    {
+      "term": "Blockchain",
+      "definition": "A distributed ledger technology that allows data to be stored globally on thousands of servers. Each block in the chain contains a list of transactions."
+    },
+    {
+      "term": "Smart Contract",
+      "definition": "Self-executing code stored on the blockchain that automatically enforces rules and actions when certain conditions are met."
+    },
+    {
+      "term": "Wallet",
+      "definition": "A digital tool that lets you store, send, and receive cryptocurrencies and interact with decentralized applications (dApps)."
+    },
+    {
+      "term": "Gas Fees",
+      "definition": "Transaction costs required to perform operations on certain blockchains like Ethereum, paid to miners for executing operations."
+    },
+    {
+      "term": "NFT (Non-Fungible Token)",
+      "definition": "A unique digital asset that represents ownership of a specific item, such as art, music, or videos, and cannot be replicated."
+    },
+    {
+      "term": "Cryptocurrency",
+      "definition": "A digital or virtual currency that uses cryptography for security and operates on a decentralized network, often powered by blockchain."
+    },
+    {
+      "term": "Decentralized Finance (DeFi)",
+      "definition": "A movement to build financial systems that operate without intermediaries like banks, leveraging smart contracts and blockchain technology."
+    },
+    {
+      "term": "DAO (Decentralized Autonomous Organization)",
+      "definition": "An organization run by smart contracts, where decisions are made collectively by the community through voting mechanisms."
+    },
+    {
+      "term": "dApp (Decentralized Application)",
+      "definition": "Applications that run on a decentralized network, often powered by blockchain, ensuring no central authority can control or interfere with them."
+    },
+    {
+      "term": "Tokenomics",
+      "definition": "The study and design of the economics and incentives of a cryptocurrency or token, including how it’s distributed and its utility."
+    },
+    {
+      "term": "Proof of Work (PoW)",
+      "definition": "A consensus mechanism used by Bitcoin and other blockchains that requires participants to solve complex mathematical problems to validate transactions."
+    },
+    {
+      "term": "Proof of Stake (PoS)",
+      "definition": "A consensus algorithm that allows users to validate transactions and create new blocks based on the amount of cryptocurrency they hold."
+    },
+    {
+      "term": "Fork",
+      "definition": "A split in the blockchain, often resulting in two separate chains, typically due to disagreements about protocol changes (e.g., hard fork, soft fork)."
+    },
+    {
+      "term": "Public Key",
+      "definition": "A cryptographic key that is publicly shared and used to encrypt data or verify the identity of a user on a blockchain."
+    },
+    {
+      "term": "Private Key",
+      "definition": "A secret key that is used to sign transactions and access a user’s cryptocurrency. It should be kept secure and never shared."
+    },
+    {
+      "term": "ERC-20",
+      "definition": "A standard for creating tokens on the Ethereum blockchain. It defines a common set of rules for token transfer and interoperability."
+    },
+    {
+      "term": "ERC-721",
+      "definition": "A standard for creating Non-Fungible Tokens (NFTs) on the Ethereum blockchain, allowing for the creation of unique assets."
+    },
+    {
+      "term": "Layer 2",
+      "definition": "A secondary framework built on top of an existing blockchain to improve scalability, speed, and cost efficiency of transactions (e.g., Optimistic Rollups)."
+    },
+    {
+      "term": "Sharding",
+      "definition": "A technique used to split a blockchain network into smaller, manageable pieces, or 'shards,' to improve scalability and performance."
+    },
+    {
+      "term": "Validator",
+      "definition": "A participant in a blockchain network who validates new transactions and adds them to the blockchain, especially in proof-of-stake systems."
+    },
+    {
+      "term": "Staking",
+      "definition": "The process of holding cryptocurrency in a wallet to support the operations and security of a blockchain network, typically in PoS systems."
+    },
+    {
+      "term": "Mining",
+      "definition": "The process of validating transactions and adding them to the blockchain in PoW systems. Miners are rewarded with cryptocurrency for their work."
+    },
+    {
+      "term": "Initial Coin Offering (ICO)",
+      "definition": "A method of fundraising in which new cryptocurrency projects sell tokens to early investors to raise capital for development."
+    },
+    {
+      "term": "Airdrop",
+      "definition": "A method of distributing free tokens to cryptocurrency holders or users as part of a marketing campaign or to reward early adopters."
+    },
+    {
+      "term": "Cold Wallet",
+      "definition": "A cryptocurrency wallet that is not connected to the internet, providing an extra layer of security against online attacks."
+    },
+    {
+      "term": "Hot Wallet",
+      "definition": "A cryptocurrency wallet that is connected to the internet, making it easier to access funds but potentially more vulnerable to hacking."
+    },
+    {
+      "term": "Atomic Swap",
+      "definition": "A method for exchanging one cryptocurrency for another without the need for an intermediary or centralized exchange."
+    },
+    {
+      "term": "Web3",
+      "definition": "A decentralized web where users have more control over their data, often using blockchain and smart contracts to create decentralized applications (dApps)."
+    },
+    {
+      "term": "IPFS (InterPlanetary File System)",
+      "definition": "A peer-to-peer file system that enables users to store and share data in a decentralized way, using content addressing."
+    },
+    {
+      "term": "Oracle",
+      "definition": "A service that provides external data to smart contracts, allowing them to interact with real-world data (e.g., stock prices, weather data)."
+    },
+    {
+      "term": "Gas Limit",
+      "definition": "The maximum amount of gas (computational work) that a user is willing to spend on a transaction or contract execution."
+    },
+    {
+      "term": "Gas Price",
+      "definition": "The amount of cryptocurrency that a user is willing to pay per unit of gas in order to prioritize their transaction on the network."
+    },
+    {
+      "term": "Transaction Hash",
+      "definition": "A unique identifier assigned to each transaction on the blockchain, generated by hashing the transaction data."
+    },
+    {
+      "term": "Token Burn",
+      "definition": "A process of permanently removing a certain amount of tokens from circulation, typically to reduce supply and increase scarcity."
+    },
+    {
+      "term": "Liquidity Pool",
+      "definition": "A collection of funds used to facilitate decentralized trading on automated market makers (AMMs) like Uniswap."
+    },
+    {
+      "term": "Slippage",
+      "definition": "The difference between the expected price of a trade and the actual price when it’s executed, often due to low liquidity."
+    },
+    {
+      "term": "Yield Farming",
+      "definition": "The practice of earning rewards by providing liquidity to decentralized finance (DeFi) platforms or staking tokens."
+    },
+    {
+      "term": "Impermanent Loss",
+      "definition": "A temporary loss of value incurred when providing liquidity to a decentralized exchange (DEX) due to price fluctuations of the paired assets."
+    },
+    {
+      "term": "Vesting",
+      "definition": "A process that gradually releases tokens or funds to an individual or team over time, usually to incentivize long-term commitment."
+    },
+    {
+      "term": "Layer 1",
+      "definition": "The base layer of a blockchain, which is the primary protocol that governs how data is processed and transactions are verified."
+    },
+    {
+      "term": "Cross-Chain",
+      "definition": "The ability for different blockchain networks to communicate and transfer assets across them seamlessly, enhancing interoperability."
+    },
+    {
+      "term": "Token Swap",
+      "definition": "The process of exchanging one type of token for another, often done on decentralized exchanges (DEXs) like Uniswap."
+    },
+    {
+      "term": "Hard Fork",
+      "definition": "A type of blockchain split where the rules change significantly, and the new version is not compatible with the previous one."
+    },
+    {
+      "term": "Soft Fork",
+      "definition": "A change to the blockchain protocol that is backward-compatible, meaning the new version of the blockchain can still work with older versions."
+    },
+    {
+      "term": "Mempool",
+      "definition": "The temporary storage area where transactions await confirmation before being added to the blockchain."
+    },
+    {
+      "term": "Decentralized Exchange (DEX)",
+      "definition": "A type of cryptocurrency exchange that operates without a central authority, enabling users to trade directly with each other."
+    },
+    {
+      "term": "Liquidity Mining",
+      "definition": "A DeFi practice where users provide liquidity to a platform and earn rewards in the form of tokens or fees."
+    },
+    {
+      "term": "Security Token",
+      "definition": "A digital token that represents ownership in a real-world asset, such as stocks, bonds, or real estate."
+    },
+    {
+      "term": "Utility Token",
+      "definition": "A token used within a specific blockchain platform or application, providing users with access to a service or feature."
+    },
+   
+  
